@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red62\green62\blue62;\red62\green62\blue62;\red255\green255\blue255;
+}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl510\sa300\partightenfactor0
+
+\f0\b\fs30 \cf2 \expnd0\expndtw0\kerning0
+What happens when you initialize a repository? Why do you need to do it?
+\b0 \
+it creates a git, so you can start commits and version control\
+\pard\pardeftab720\sl510\partightenfactor0
+
+\b \cf3 \cb4 \outl0\strokewidth0 \strokec3 How is the staging area different from the working directory and the repository? What value do you think it offers?\
+\
+the repository is the whole of your project and the working directory is the current version of your project, the staging area is the area in between that has connects the two.\
+}
